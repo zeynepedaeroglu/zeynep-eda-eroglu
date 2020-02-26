@@ -1,0 +1,29 @@
+{
+  "name": "zeynep-eda-eroglu",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "zeynep": "echo 'Benim adım zeynep'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Zeynep Eda Eroglu",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.9.2",
+    "nodemailer": "^6.4.3",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.11"
+  },
+  "repository" : {
+  "type" : "git",
+  "url" : "https://github.com/zeynepedaeroglu/zeynep-eda-eroglu.git"
+  }
+}
